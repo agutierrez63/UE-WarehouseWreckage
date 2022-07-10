@@ -6,7 +6,7 @@ Engine 5.
 
 The propject was only meant to be for fun and learning purposes.
 The main goal of the project is to gain a better understadning of
-UNreal Engine 5. Som e of the learning goals in the project were
+UNreal Engine 5. Some of the learning goals in the project were
 to better understand the blueprint system in Unreal Engine.
 
 ## Getting Started
@@ -14,13 +14,12 @@ to better understand the blueprint system in Unreal Engine.
 ### Dependencies
 In order to run and edit this project you will need the following:
 
-* Hour Of Code Asset Library
 * Unreal Engine 5
 * Visual Studio Code
 
 ## Help
 
-AIf you have any questions please ask me or submit an issue.
+If you have any questions please ask me or submit an issue.
 
 ## Authors
 
