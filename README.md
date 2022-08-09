@@ -4,10 +4,9 @@ Engine 5.
 
 ## Description
 
-The propject was only meant to be for fun and learning purposes.
-The main goal of the project is to gain a better understadning of
-UNreal Engine 5. Some of the learning goals in the project were
-to better understand the blueprint system in Unreal Engine.
+The project was only for fun and personal academic purposes.
+The games was to better understand what was new in Unreal
+Engine 5.
 
 ## Getting Started
 
